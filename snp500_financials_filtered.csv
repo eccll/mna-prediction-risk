@@ -1,0 +1,31 @@
+Symbol,Market_Cap,EBITDA_Margin,ROA,Debt_Equity,Sector,Sub_Industry
+PWR,38724878336,0.0864,0.04664,61.107,Industrials,Engineering & Construction
+BR,26360870912,0.24535999,0.08861,173.54,Technology,Information Technology Services
+AMT,96385499136,0.65540004,0.04532,455.544,Real Estate,REIT - Specialty
+ROL,25742983168,0.22767,0.15195,61.065,Consumer Cyclical,Personal Services
+MAS,12796479488,0.19443001,0.16524,,Industrials,Building Products & Equipment
+NOC,73587286016,0.16667,0.071279995,120.314,Industrials,Aerospace & Defense
+EMR,55143784448,0.26934,0.04448,31.298,Industrials,Specialty Industrial Machinery
+DOC,12483910656,0.53924,0.01613,99.621,Real Estate,REIT - Healthcare Facilities
+UAL,20484937728,0.14177,0.04578,265.349,Industrials,Airlines
+BLDR,13383417856,0.13153,0.09458,100.846,Industrials,Building Products & Equipment
+RTX,167786119168,0.15890001,0.03258,69.821,Industrials,Aerospace & Defense
+O,47558045696,0.90152,0.02299,68.313,Real Estate,REIT - Retail
+MMM,70887964672,0.22258,0.05929,350.77,Industrials,Conglomerates
+REG,12325226496,0.62513,0.02859,67.446,Real Estate,REIT - Retail
+CTAS,81054187520,0.26267,0.15531999,58.617,Industrials,Specialty Business Services
+OTIS,36619419648,0.17748,0.13706,,Industrials,Specialty Industrial Machinery
+JBHT,13294062592,0.13174,0.061479997,44.583,Industrials,Integrated Freight & Logistics
+PH,70914105344,0.25033,0.08776,68.875,Industrials,Specialty Industrial Machinery
+WY,18443823104,0.16437,0.02495,53.842,Real Estate,REIT - Specialty
+GEV,84938162176,0.06627,0.01602,10.016,Utilities,Utilities - Renewable
+BXP,10205729792,0.56108004,0.02421,213.956,Real Estate,REIT - Office
+EXR,28820783104,0.677,0.032899998,88.633,Real Estate,REIT - Industrial
+MAA,18223755264,0.56738997,0.03524,81.742,Real Estate,REIT - Residential
+DAL,25444442112,0.13311,0.05046,156.091,Industrials,Airlines
+CSX,51981402112,0.48652,0.07967,153.394,Industrials,Railroads
+EFX,26563467264,0.30934,0.05599,105.039,Industrials,Consulting Services
+HST,9327425536,0.2706,0.03845,83.267,Real Estate,REIT - Hotel & Motel
+PLD,87015333888,0.70509005,0.022909999,53.73,Real Estate,REIT - Industrial
+CARR,50050822144,0.15841,0.04147,89.232,Industrials,Building Products & Equipment
+GD,71977369600,0.11721,0.05386,48.389,Industrials,Aerospace & Defense
